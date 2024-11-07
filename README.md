@@ -13,7 +13,7 @@
 
 # Data Analytics Portfolio
 # Project 2
-**Title**: [Adidas US Interactive Sales Dashboard](Adidas Sales Dashboard.xlsx)
+**Title**: [Adidas US Interactive Sales Dashboard](https://github.com/OlaMuizz/OlaMuizz.github.io/blob/main/Adidas%20Sales%20Dashboard.xlsx)
 
 **Tools Used**: MS Excel (Pivot Chart, Pivot Tables, Conditional Formatting, Slicers)
 
