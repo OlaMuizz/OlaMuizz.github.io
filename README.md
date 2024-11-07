@@ -22,3 +22,16 @@
 
 **Dashboard Overview**:
 ![Adidas Sales Portfolio](AdidasSalesDashboard.png)
+
+#Project 3
+
+**Title**:
+
+**SQL Code**:
+
+**SQL Skills Used**:
+
+**Project Description**:
+
+**Technology used: SQL server**
+ 
