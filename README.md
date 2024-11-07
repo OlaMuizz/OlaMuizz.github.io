@@ -11,7 +11,6 @@
 **Dashboard Overview**:
 ![CovidDashboard](CovidDashboard.png)
 
-# Data Analytics Portfolio
 # Project 2
 **Title**: [Adidas US Interactive Sales Dashboard](https://github.com/OlaMuizz/OlaMuizz.github.io/blob/main/Adidas%20Sales%20Dashboard.xlsx)
 
